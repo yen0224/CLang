@@ -1,6 +1,6 @@
 #include<stdio.h> 
 #include<math.h> 
- char command;
+char command;
 int main(void)
 
 {
